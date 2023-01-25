@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "node": "^19.4.0"
+  },
+  "name": "design-in-action",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JunlingZhuang/Design-in-Action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JunlingZhuang/Design-in-Action/issues"
+  },
+  "homepage": "https://github.com/JunlingZhuang/Design-in-Action#readme"
+}
